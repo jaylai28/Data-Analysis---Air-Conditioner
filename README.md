@@ -1,5 +1,7 @@
 # Data Processing and Analysis---Air-Conditioner
 In this project, I build an end-to-end data pipeline using AWS, Databricks, Pyspark and Snowflake. The pipeline involves retrieving data from an AWS S3 bucket, performing data cleansing and transformation, and subsequently loading the refined data into Snowflake for analysis.
+<img width="723" alt="databricks" src="https://github.com/jaylai28/Data-Analysis---Air-Conditioner/assets/69461406/98e7a10e-a610-4cf8-9f8c-14ca78e30be6">
+
 
 Steps in the Pipeline:
 1. Retrieving Data from AWS S3:
